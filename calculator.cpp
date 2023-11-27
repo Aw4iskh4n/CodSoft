@@ -31,7 +31,7 @@ int main() {
     cout << "Enter the first number : ";
     cin >> num2;
 
-    cout << "\nOperations" << endl;
+    cout << "\nOperations\n" << endl;
     cout << "1- Addition" << endl;
     cout << "2- Subtraction" << endl;
     cout << "3- Division" << endl;
